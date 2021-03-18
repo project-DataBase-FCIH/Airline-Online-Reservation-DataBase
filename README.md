@@ -13,7 +13,7 @@ Our database consist of number of tables “ENTITIES” and columns “ATTRIBIUT
 Each table must has primary key to be linked together.
 
 ## Document
-THE [document](https://github.com/project-DataBase-FCIH/Airline-Online-Reservation-DataBase/blob/main/document-Database.docx) contain the ERD and the schema of the Database , and a full documentation of the Airline Online Reservation Database.
+THE [document](https://github.com/project-DataBase-FCIH/Airline-Online-Reservation-DataBase/blob/main/document-Database.pdf) contain the ERD and the schema of the Database , and a full documentation of the Airline Online Reservation Database.
 
 
 ## Authors  
