@@ -16,29 +16,25 @@ Each table must has primary key to be linked together.
 THE [document](https://github.com/project-DataBase-FCIH/Airline-Online-Reservation-DataBase/blob/main/document-Database.docx) contain the ERD and the schema of the Database , and a full documentation of the Airline Online Reservation Database.
 
 
-## Authors 
-|   |
-| :----------------------------------------------------------: |
+## Authors  
+
+
 | Abdelrahman |
 | [Github](https://github.com/abdelrahman-montasser) |
 
-|  |
-| :----------------------------------------------------------: |
+
 | Ahmed |
 | [Github](https://github.com/jamal022) |
 
-|   |
-| :----------------------------------------------------------: |
+
 | Aalaa |
 | [Github](https://github.com/aalaa121) |
 
-|  |
-| :----------------------------------------------------------: |
+
 | Clara |
 | [Github](https://github.com/ClaraWilliam1311) |
 
-|  |
-| :----------------------------------------------------------: |
+
 | Roudina |
 | [Github](https://github.com/roudinalasheen) |
 
