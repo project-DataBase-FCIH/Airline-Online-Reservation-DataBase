@@ -22,7 +22,7 @@ THE [document](https://github.com/project-DataBase-FCIH/Airline-Online-Reservati
 | Abdelrahman |
 | [Github](https://github.com/abdelrahman-montasser) |
 
-| ![Ahmed](https://avatars.githubusercontent.com/u/69757846?s=460&u=f3237f09b19bece37bb9c17916fa2164d60ba57d&v=4)  |
+|  |
 | :----------------------------------------------------------: |
 | Ahmed |
 | [Github](https://github.com/jamal022) |
